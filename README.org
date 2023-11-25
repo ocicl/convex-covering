@@ -4,6 +4,6 @@ An algorithm for the computation of a convex hull covering set of a mesh
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/Shirakumo/convex-covering.git |
-| commit  | 84e798b                                              |
+| commit  | 5f19c64                                              |
 | systems | convex-covering                                      |
 |---------+------------------------------------------------------|
